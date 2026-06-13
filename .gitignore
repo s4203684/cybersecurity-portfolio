@@ -1,0 +1,19 @@
+# Template files
+daily-log-template.md
+
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE/Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependencies
+node_modules/
+venv/
+.env
